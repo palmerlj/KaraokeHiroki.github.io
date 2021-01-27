@@ -1,12 +1,12 @@
 ## Welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/KaraokeHiroki/KaraokeHiroki.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi I am Hiroki Miyabayashi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a sophmore ISAT major in JMU
 
-### Markdown
+### Coding Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have never coded prior to this and it is my first time coding
 
 ```markdown
 Syntax highlighted code block
