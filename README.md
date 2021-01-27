@@ -2,7 +2,7 @@
 
 Hello, World! This is Hiroki Miyabayashi
 
-I am a sophmore ISAT major in JMU
+I am a sophmore ISAT major at JMU
 
 ### Coding Experience
 
